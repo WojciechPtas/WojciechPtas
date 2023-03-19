@@ -1,4 +1,4 @@
-### Hi I'm Wojciech Ptaś, also know as Felmakor 👋
+### Hi I'm Wojciech Ptaś, also known as Felmakor 👋
 
 - 🔭 I’m currently working on my own language as my thesis
 - 🎓 I'm Silesian Univeristy Of Technology student
